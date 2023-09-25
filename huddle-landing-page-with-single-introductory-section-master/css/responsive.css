@@ -1,0 +1,48 @@
+@media(max-width: 650px){
+
+    .huddle img{
+        margin-top: -10px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        width: 150px;
+    }
+
+    .conteudo{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .conteudo img{
+        width: 400px;
+        height: 300px;
+        margin-left: 10px;
+    }
+
+    .item h1{
+        margin: 30px 0 20px 0;
+        font-size: 30px;
+    }
+
+    .item p{
+        margin: 0 0 50px 0;
+        font-size: 19px;
+    }
+
+    .item a{
+        align-items: center;
+        padding: 20px 110px;
+        border-radius: 30px;
+    }
+
+    .footer .social i{
+        position: relative;
+        right: 1038px;
+        font-size: 30px;
+        color: aliceblue;
+    }
+    
+    .footer .social a{
+        margin: 10px;
+    }
+    
+}
